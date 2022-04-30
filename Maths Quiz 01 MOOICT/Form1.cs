@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace Maths_Quiz_01_MOOICT
 {
+    
+    // programmed by MOOICT.COM 2022
+    // for educational purpose only
+    
     public partial class Form1 : Form
     {
 
